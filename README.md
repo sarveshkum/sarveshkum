@@ -14,13 +14,13 @@
 <a href="mailto:sarveshkumar.sasikumar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/sarveshkumarss">
+<a href="https://linkedin.com/in/sarveshkum">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/sarveshkumarss">
+<a href="https://github.com/sarveshkum">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=sarveshkumarss&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sarveshkum&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
@@ -293,12 +293,12 @@ Engineered a behavioral monitoring system for online examinations using computer
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarveshkum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sarveshkumarss&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&border_radius=10"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sarveshkum&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&border_radius=10"/>
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshkum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshkumarss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&border_radius=10"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshkum&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&border_radius=10"/>
 
 </div>
 
@@ -433,11 +433,11 @@ Engineered a behavioral monitoring system for online examinations using computer
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sarveshkumar.sasikumar@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sarveshkumarss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sarveshkum)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/sarveshkumarss)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/sarveshkum)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://sarveshkumarss.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://sarveshkum.dev)
 
 <br/><br/>
 
