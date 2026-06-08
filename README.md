@@ -292,12 +292,12 @@ Engineered a behavioral monitoring system for online examinations using computer
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarveshkumarss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarveshkum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sarveshkumarss&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&border_radius=10"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshkumarss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshkum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshkumarss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&border_radius=10"/>
 
 </div>
