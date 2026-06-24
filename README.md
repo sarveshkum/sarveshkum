@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Sarvesh%20Kumar%20S%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Sarvesh%20Kumar%20S%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -46,7 +46,7 @@
 class SarveshKumar:
     
     name     = "Sarvesh Kumar S S"
-    role     = ["AI Security Consultant", "ML Engineer", "Software Engineer"]
+    role     = [ "ML Engineer", "Software Engineer"]
     location = "Coimbatore, Tamil Nadu, India 🇮🇳"
     education = "M.Tech Integrated CSE — Sri Ramakrishna Engineering College"
     
